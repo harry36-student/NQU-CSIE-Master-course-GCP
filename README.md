@@ -1,2 +1,3 @@
 # NQU-CSIE-Master-course
 Master course in GCP Platfrom ....
+目前 新筆記 在 此連結 : https://hackmd.io/RMMWyOo7QaSuZVkNvjaMqw (請有玩過雲端的專家，或是從事雲端這方面的從業人員 歡迎來指教!)
